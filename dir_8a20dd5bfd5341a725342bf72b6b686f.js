@@ -22,6 +22,7 @@ var dir_8a20dd5bfd5341a725342bf72b6b686f =
     [ "matrix_chain_multiplication.cpp", "d2/da2/matrix__chain__multiplication_8cpp_source.html", null ],
     [ "maximum_circular_subarray.cpp", "db/dfb/maximum__circular__subarray_8cpp.html", "db/dfb/maximum__circular__subarray_8cpp" ],
     [ "minimum_edit_distance.cpp", "da/d52/minimum__edit__distance_8cpp.html", "da/d52/minimum__edit__distance_8cpp" ],
+    [ "optimal_bst.cpp", "d1/def/optimal__bst_8cpp.html", "d1/def/optimal__bst_8cpp" ],
     [ "palindrome_partitioning.cpp", "d5/d90/palindrome__partitioning_8cpp.html", "d5/d90/palindrome__partitioning_8cpp" ],
     [ "partition_problem.cpp", "de/d8c/partition__problem_8cpp_source.html", null ],
     [ "searching_of_element_in_dynamic_array.cpp", "da/d68/searching__of__element__in__dynamic__array_8cpp_source.html", null ],

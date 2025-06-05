@@ -100,6 +100,7 @@ var namespaces_dup =
       [ "FastFourierTransform", "d1/de0/namespacenumerical__methods.html#a158fd271b9a53e8f3f60b08b18857150", null ],
       [ "InverseFastFourierTransform", "d1/de0/namespacenumerical__methods.html#aee56dc85997b8cd42bad71a5d6bd2d93", null ]
     ] ],
+    [ "obst", "d2/db3/namespaceobst.html", null ],
     [ "operations_on_datastructures", "da/d6d/namespaceoperations__on__datastructures.html", "da/d6d/namespaceoperations__on__datastructures" ],
     [ "others", "d0/d6f/namespaceothers.html", "d0/d6f/namespaceothers" ],
     [ "palindrome_partitioning", "d5/d89/namespacepalindrome__partitioning.html", null ],
